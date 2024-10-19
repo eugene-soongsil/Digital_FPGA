@@ -2,7 +2,7 @@ module FullAdder(
     input           a, b, cin,
     output          sum, cout
 );
-
+dd
 wire                s1, c1, c2;
 
 xor                 (s1, a, b);
